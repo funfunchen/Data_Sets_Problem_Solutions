@@ -1,7 +1,8 @@
 # Data Sets & Problem Solutions
 
-The most important thing I've learned when following a CS course is to **keep your feet wet**.
-Listening, thinking, coding, coding...
+The most important thing I've learned when following a CS course is to **keep your feet wet**.      
+
+Listening, reading, thinking, coding, coding...
 ```
 while (life = true):
     coding
